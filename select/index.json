@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SKETCH",
+  "base_artist": "秋山黄色",
+  "createdAt": "2026-02-14T14:50:14.934992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Another Sketch",
+      "artist": "Lil Silva",
+      "has_synced": true,
+      "path": "select/01_Another_Sketch_Lil_Silva.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Strangeland (Dallas Sketch / 2011)",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/02_Strangeland_(Dallas_Sketch___2011)_Keane.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Strangeland (Dallas Sketch \u0000 2011)",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/03_Strangeland_(Dallas_Sketch_\u0000_2011)_Keane.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sketch For Joanne",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/04_Sketch_For_Joanne_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sketch",
+      "artist": "The Clientele",
+      "has_synced": true,
+      "path": "select/05_Sketch_The_Clientele.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Romance (demo sketch)",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/06_Romance_(demo_sketch)_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Bells Sketch",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/07_The_Bells_Sketch_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sketch Artist",
+      "artist": "Kim Gordon",
+      "has_synced": true,
+      "path": "select/08_Sketch_Artist_Kim_Gordon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Parrot Sketch (Live At Drury Lane, London, UK / 1974)",
+      "artist": "Monty Python",
+      "has_synced": false,
+      "path": "select/09_Parrot_Sketch_(Live_At_Drury_Lane,_London,_UK___1974)_Monty_Python.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Parrot Sketch (Live At Drury Lane, London, UK \u0000 1974)",
+      "artist": "Monty Python",
+      "has_synced": false,
+      "path": "select/10_Parrot_Sketch_(Live_At_Drury_Lane,_London,_UK_\u0000_1974)_Monty_Python.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Better Than This - Sketch Iz Dead Remix",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/11_Better_Than_This_-_Sketch_Iz_Dead_Remix_Keane.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Anatadakega (World Sketch Remix)",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/12_Anatadakega_(World_Sketch_Remix)_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anata Dake Ga (World Sketch Remix)",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/13_Anata_Dake_Ga_(World_Sketch_Remix)_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's No TV Sketch",
+      "artist": "Discharge",
+      "has_synced": true,
+      "path": "select/14_It's_No_TV_Sketch_Discharge.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's No T.V. Sketch",
+      "artist": "Discharge",
+      "has_synced": true,
+      "path": "select/15_It's_No_T.V._Sketch_Discharge.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Romance - Demo Sketch; 2019 Remaster",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/16_Romance_-_Demo_Sketch;_2019_Remaster_Alphaville.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SKETCH",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_SKETCH_秋山黄色.txt"
+    }
+  ]
+}
